@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- I'm a student at [![UFMG](https://img.shields.io/badge/UFMG-Computer%20Science-red)](https://www.dcc.ufmg.br/) in the 4th semester
+- I'm a student at [![UFMG](https://img.shields.io/badge/UFMG-Computer%20Science-red)](https://www.dcc.ufmg.br/) in the 5th semester
 - I currently receive a scientific initiation scholarship to develop a proof certificate visualizer [![ProofVisualizer](https://img.shields.io/badge/CVC4-Proof%20certificate%20visualizer-%dd5424)](https://diegodrc.github.io/cvc4-proof-visualizer/)
