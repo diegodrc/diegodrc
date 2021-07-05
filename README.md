@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - I'm a student at [![UFMG](https://img.shields.io/badge/UFMG-Computer%20Science-red)](https://www.dcc.ufmg.br/) in the 5th semester
-- I currently receive a scientific initiation scholarship to develop a proof certificate visualizer.
+- I currently receive a scientific initiation scholarship to develop a [proof certificate visualizer](https://github.com/diegodrc/proof-visualizer).
